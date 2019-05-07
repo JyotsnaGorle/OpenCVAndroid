@@ -1,5 +1,5 @@
 # OpenCVAndroid
-detect the frontal face of a person in the camera
+detect the frontal face of a person and a red circle around the nose in the camera
 =============================================================================
 The steps to include OpenCV as a native android library: inspired from the readme in this project and the sample project linked in.
 https://github.com/floe/opencv-android/tree/master/manager
