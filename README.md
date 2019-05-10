@@ -13,3 +13,7 @@ https://github.com/floe/opencv-android/tree/master/manager
 I got confused with the exisiting jnilibs folder in the samples folder. But that is not the one we need. The sdk/native/libs folder has to be copied into app/src/main and renamed to jniLibs folder.
 
 tip from : https://android.jlelse.eu/a-beginners-guide-to-setting-up-opencv-android-library-on-android-studio-19794e220f3c
+
+Name & Matr number
+Jyotsna Gorle 120290
+Christopher Heiden 120249
